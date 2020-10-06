@@ -1,7 +1,4 @@
-/bin
-/obj
-/*.suo
-/*.user
-/Properties/GeneratedVersion.cs
-
-\.vs/
+# Ignore build/bin directories
+[Bb]uild/
+build_*/
+.DS_Store
